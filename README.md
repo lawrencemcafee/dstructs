@@ -1,3 +1,8 @@
+README
+------
+
+[![Build Status](https://travis-ci.org/lawrencemcafee/dstructs.svg?branch=master)](https://travis-ci.org/lawrencemcafee/dstructs)
+
 This library will contain a near-epic collection of data structures, and tests.
 
 * Version 0.0, May 18, 2017 (No code.. directory structure only)
