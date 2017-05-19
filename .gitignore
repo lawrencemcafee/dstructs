@@ -1,0 +1,8 @@
+*~
+build
+lib
+gitpush.sh
+.classpath
+.project
+.settings/
+target/

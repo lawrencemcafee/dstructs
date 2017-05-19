@@ -1,3 +1,3 @@
 #!/bin/bash
 #git push -u origin master
-git push -u https://lawrencemcafee@github.com/lawrencemcafee/datastructures
+git push -u https://lawrencemcafee@github.com/lawrencemcafee/dstructs
